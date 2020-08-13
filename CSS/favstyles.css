@@ -1,0 +1,14 @@
+h1 { 
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+
+}
+body {
+    background-color: aquamarine;
+    margin: 10px;
+}
+p{
+ font-style: italic;
+ font-size: large;
+}
