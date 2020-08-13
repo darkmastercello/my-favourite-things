@@ -12,3 +12,11 @@ p{
  font-style: italic;
  font-size: large;
 }
+.intro {
+    color: red;
+    font-style: italic;
+    border: 12px;
+}
+.love {
+    color:purple ;
+}
